@@ -5,8 +5,8 @@
     --verde: #4646a3;
     --branco: #cc1dbd;
     --botao-ativo: #26d446;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
-    --texto-fundo: rgba(58, 55, 94, 0.3);
+    --botao-inativo: rgba(#d42626);
+    --texto-fundo: rgba(#5e3737);
 }
 
 body {
